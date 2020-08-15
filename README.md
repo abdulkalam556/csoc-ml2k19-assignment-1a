@@ -15,7 +15,7 @@ Using cd command go to your assigment folder where you clone it.Now type these c
 
 If you are uncomfortable with command line, you can use Git GUI tool GitKraken. Install it from [here](https://www.gitkraken.com/download). After installing,
 1. Login into GitKraken with GitHub
-2. Choose Clone Repo (File -> Clone Repo)
+2. Choose Clone Repo (File -> Clone Repos)
 3. Open the Repo
 4. Complete the assignment.
 5. Stage all changes (button on the right.)
